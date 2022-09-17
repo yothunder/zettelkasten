@@ -1,1 +1,1 @@
-Test
+Repository ini berisi catatan pribadi dengan metode zettelkasten.
